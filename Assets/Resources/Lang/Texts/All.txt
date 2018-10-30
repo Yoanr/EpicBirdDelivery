@@ -1,0 +1,29 @@
+|English|Francais
+Play|Play|Jouer
+Options|Options|Options
+Credits|Credits|Crédits
+Quit|Quit|Quitter
+Music|Music|Musique
+Music_On|On|Oui
+Music_Off|Off|Non
+Language|Language|Langue
+Language_French|Francais|Francais
+Language_English|English|English
+Ok|Ok|Valider
+Cancel|Cancel|Annuler
+Musical_Credits|Musical Credits|Crédits musique
+Press_start|PRESS START|APPUYEZ SUR START
+
+Letter|Dear Father,\nHere is the medicine you need.\nI hope you will get it in time!\nYour son.|Cher papa,\nVoilà les médicaments dont tu as besoin.\nJ'espère que tu les recevras avant qu'il ne soit trop tard !\nTon fils.
+
+Tuto|Use arrows (player 1) and AWSD (player 2) to move the birds. As long as you have the letter, your stamina and speed will decrease.\nLess stamina = less speed!\nTo recover stamina, transmit the letter to your friend using the Space Bar, but be careful : the path of transmission must be clear!\n\nWhen you hit something will the letter, you lose life points (you'll lose stamina if you don't have the letter).\n\nWHEN YOU RUN OUT OF STAMINA, YOU WILL LOSE THE GAME.\nTRY TO GO AS FAR AS POSSIBLE!|Utilisez les flèches directionnelles (joueur 1) ou AWSD (joueur 2) pour bouger. Tant que vous avez la lettre, votre énergie et vitesse vont baisser progressivement.\nMoins d'énergie = moins de vitesse !\nPour récupérer de l'énergie, transmettez la lettre à votre partenaire en utilisant la barre d'espace, mais attention : la ligne de transmission doit être dégagée !\n\nQuand vous touchez un obstacle avec la lettre, vous perdez un point de vie(vous perdrez seulement de l'énergie si vous n'avez pas la lettre).\nQUAND VOUS N'AVEZ PLUS D'ENERGIE, VOUS PERDREZ LA PARTIE.\nESSAYEZ D'ALLER AUSSI LOIN QUE POSSIBLE!
+
+AAA|EN|FR
+
+Game_Over|Game Over\nThe letter was destroyed...|Partie terminée\nLa lettre est perdue...
+Taunt|You lose once again!|Vous avez encore perdu !
+Retry|Retry|Recommencer
+Give_up|Give up|Abandonner
+BestTime|Best Time:|Temps record :
+
+Time|...but you managed to survive for|...mais vous avez réussi à tenir 
